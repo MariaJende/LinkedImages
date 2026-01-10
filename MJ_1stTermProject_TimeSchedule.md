@@ -45,6 +45,7 @@ Regarding audio, this will be the area of least focus due to time constraints. I
 
 
 ## Categorization
+
 **Creative/artistic development | Software development | Research/Experimentation | Algorithms |  Audio-visual design**
 
 The intended result is focusing on creating a visually interesting and interactive user experience and therefore falls within the domain of **creative and artistic development**.
@@ -74,17 +75,21 @@ User interaction is handled through standard web input methods such as scrolling
 flowchart TD
     A[Project is developed using personal equipmentand VS Code for JavaScript, Eventually Ableton and Vital for sound generation] --> B[Upload files to the hosting server like Netlify or GitHub Pages, which stores Index html, javascript files, assets etc.]
     B --> C[User opens website] --> D[Files downloaded from hosting server to user's browser] --> E[Website 3d scene runs locally on user's device] 
-    style B fill:#ffdddd,stroke:#cc0000,stroke-width:1px
-``` 
+    style fill:#c2c2c2,stroke-width:0px,color:#fff
+```
 </br>
 
 ## Unique selling point
+
 For me, the main value of this project lies in my personal learning process and in creating an engaging outcome for the user. While the concept itself is not entirely new or innovative, the project aims to result in an experience that is visually pleasing and interactive, with the potential to create a small moment of curiosity or enjoyment.  
 </br>
 
 ## Expected Results
+
 Since I am a novice in creative coding, it is difficult for me to assess what can be regarded as a realistic outcome within the given scope.
+
 ### Baseline solution
+
 At the very least, I would like to reach a point where I have a short website (approximately 5 seconds when constantly scrolling) featuring a simple particle animation and basic interaction. The user will be able to scroll forward, while stopping the scroll will result in the experience pausing. At this stage, the visual appearance is secondary. The most important goal is to achieve a stable website with the key functionalities in place. These include scrolling along a pathway and at least one basic particle simulation. The audio will consist of royalty-free ambient sound.
 Best possible solution
 If everything works out as planned, the best possible solution would include all elements of the baseline solution, with increased effort placed especially on design, particle behaviour, interactivity, and audio. The design would be further refined, including particle shapes, backgrounds, pathway design, and colour scheme. The particles would be animated in more interesting and diverse ways and might optionally form specific shapes or patterns. The pathway interactivity would be extended to allow the user to move backwards, and possibly to influence particle behaviour through mouse hovering. Last but not least, I would love to add a self-made ambient sound.  
@@ -104,6 +109,7 @@ In a future iteration, I would love to place a stronger focus on audio, making i
 | <img src="https://i.pinimg.com/736x/70/11/51/701151a12c9330454e7415a4d58691f5.jpg" width="200"> | <img src="https://i.pinimg.com/1200x/0f/be/a6/0fbea61ac0e95e89b35f33d29a74a60b.jpg" width="200"> | <img src="https://i.pinimg.com/1200x/cb/b9/28/cbb92868404b881d23da0fa1c2e0cfde.jpg" width="200"> | <img src="https://i.pinimg.com/1200x/ff/a1/c0/ffa1c0075be82c32a521a0f811db9ae2.jpg" width="200"> | <img src="https://i.pinimg.com/1200x/bc/7c/0f/bc7c0fd89f6e6655d8347631c8e76e29.jpg" width="200"> |
 | ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ |
 | https://pin.it/eJ8uK6LIC | https://pin.it/60IBoUh70 | https://pin.it/AitsD0M07 | https://pin.it/IyvScV4PD | https://pin.it/262PGJGTU |
+
 </br>
 
 ## Challenges
@@ -127,6 +133,7 @@ At present, my biggest challenge is developing a realistic time schedule. Due to
 |          | 9         | Varying particle behaviour along the pathway |
 | March    | 10        | Design adjustments; Audio |
 |          | 11        | Final adjustements; Documentation |
+
 </br>
 
 ### Milestones
