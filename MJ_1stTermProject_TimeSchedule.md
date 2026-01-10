@@ -72,10 +72,10 @@ All components (rendering, interaction, particle simulation, audio etc.) are int
 User interaction is handled through standard web input methods such as scrolling, mouse movement, and hovering, which control navigation along the path (and might influence particle and audio behavior).
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Project is developed using personal equipmentand VS Code for JavaScript, Eventually Ableton and Vital for sound generation] --> B[Upload files to the hosting server like Netlify or GitHub Pages, which stores Index html, javascript files, assets etc.]
     B --> C[User opens website] --> D[Files downloaded from hosting server to user's browser] --> E[Website 3d scene runs locally on user's device] 
-    style A fill:transparent,stroke:transparent,color:#ffffff
+    style fill:342535,stroke:transparent,color:#ffffff
 ```
 </br>
 
