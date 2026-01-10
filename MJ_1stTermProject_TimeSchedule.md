@@ -39,9 +39,9 @@ Regarding audio, this will be the area of least focus due to time constraints. I
 
 ### Moods
 
-| <img src="https://i.pinimg.com/1200x/95/5a/04/955a048904f3785207e680d34b62ceac.jpg" alt="Mood 1" width="200">() | <img src="https://i.pinimg.com/736x/bc/2f/78/bc2f7803b24f1fdd86bfcecdc212bcb2.jpg" width="200"> | <img src="https://i.pinimg.com/736x/8b/a5/b9/8ba5b93fe89dc0b9cc5614ddc9a2a1ab.jpg" width="200"> | <img src="https://i.pinimg.com/1200x/f6/5e/98/f65e98845f0b0be84ec3af3bcc0fd34f.jpg" width="200"> | <img src="https://i.pinimg.com/736x/17/fb/52/17fb52cdb83e896cb3b8163204d153a8.jpg" width="200"> |
-| ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ |
-| https://pin.it/7AtMGJR8J | https://pin.it/4G6dCbUkW | https://pin.it/AitsD0M07 | https://pin.it/AkEora7lZ | https://pin.it/262PGJGTU |
+| <img src="https://i.pinimg.com/1200x/95/5a/04/955a048904f3785207e680d34b62ceac.jpg" alt="Mood 1" width="200"> | <img src="https://i.pinimg.com/736x/bc/2f/78/bc2f7803b24f1fdd86bfcecdc212bcb2.jpg" width="200"> | <img src="https://i.pinimg.com/736x/8b/a5/b9/8ba5b93fe89dc0b9cc5614ddc9a2a1ab.jpg" width="200"> | <img src="https://i.pinimg.com/1200x/f6/5e/98/f65e98845f0b0be84ec3af3bcc0fd34f.jpg" width="200"> | <img src="https://i.pinimg.com/736x/17/fb/52/17fb52cdb83e896cb3b8163204d153a8.jpg" width="200"> |
+| ----- | ----- |  ----- |  ----- |  ----- |
+| https://pin.it/7AtMGJR8J | https://pin.it/4G6dCbUkW | http://phototrails.info/visualizations/radial-visualization/ | https://pin.it/AkEora7lZ | https://sk.pinterest.com/pin/11399805458537751/ |
 
 
 ## Categorization
@@ -72,7 +72,7 @@ User interaction is handled through standard web input methods such as scrolling
 
 ```mermaid
 flowchart TD
-    A[Project is developed using personal equipment (Laptop, Screens etc.) and VS Code for JavaScript, Eventually Ableton and Vital for sound generation] --> B[Upload files to the hosting server (Netlify / GitHub Pages) (Stores Index html, javascript files, assets etc.)]
+    A[Project is developed using personal equipmentand VS Code for JavaScript, Eventually Ableton and Vital for sound generation] --> B[Upload files to the hosting server (Netlify / GitHub Pages) (Stores Index html, javascript files, assets etc.)]
     B --> C[User opens website] --> D[Files downloaded from hosting server to user's browser] --> E[Website (3d scene) runs locally on user's device] 
     style B fill:#ffdddd,stroke:#cc0000,stroke-width:1px
 ``` 
